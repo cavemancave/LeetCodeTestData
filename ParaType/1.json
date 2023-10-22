@@ -1,0 +1,9 @@
+{
+    "input": {
+        "target": "int",
+        "nums": "vector<int>"
+    },
+    "output": {
+        "answer": "vector<int>"
+    }
+}
